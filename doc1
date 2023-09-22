@@ -1,0 +1,339 @@
+Um, you can just pause for a second because we're just having some trouble like recording something. And also if you can turn on your laugh mic, that'd be great. Also. 
+
+Can you hear me? Or do you need me to give this. 
+
+Okay. Alright, I won't repeat everything I say. They have one there's a, 
+
+do you have a handheld? By any chance. 
+
+Is this not working. Oh, no, it is. But you can use the hand. If you want. 
+
+Okay, sorry about all that. Okay. So then as she did her postdoc at Sanford university in molecular imaging. Um, in 2017, you joined us at USC as an assistant professor in biomedical engineering. Um, and she's done a great job of working with physicians. I really appreciate. Sorry, this isn't being recorded. 
+
+Yeah. So if you could just give us like 30 seconds, it'll be all like, you know, when you can start. Okay. Okay. Yeah. I can finish the introduction without recording. Okay. Sorry for the technical difficulties. So, yeah, Christine has been doing really a pioneering work in the area of nano based molecular imaging for cancer detection and treatment. 
+
+Um, she also, uh, is inspired by a lot of, uh, arts and animation. We bond a lot over our love for Disney. And I think she'll talk probably today about integrating tattooing's into her research programs, for example. So, um, It's really a pleasure to have you here today to Christina to share your work. 
+
+Thank you. 
+
+Um, the recording is working so you can feel free to start whenever you're ready. So much, 
+
+I appreciate this. Um, this is kind of a big deal. Um, I always value. My graduate students. This is essentially the equivalent of my dissertation. Uh, as a faculty member and I've been trying to treat it as such. So bear with me. Um, we're going to get through a lot of acknowledgements at the end. 
+
+So, uh, let's, let's get through this, but, um, first I just wanted to just give a little bit of background of where I came from. I think it puts into context, the direction I've gone since. Um, and especially like moving forward with my research, I grew up in a small border town near Mexico called the Callen, Texas. 
+
+And, uh, the closest big city was about four or five hours away. Uh, we didn't have PhD programs for sciences. There. So I didn't know what a PhD was growing up and I didn't know any PhDs, obviously growing up. But I went to the big city of San Antonio. Up north. About four to five hours away. To a small private school in San Antonio called the university of incarnate word. And I actually got my bachelor's degree in nuclear medicine, thanks to a nun who started the program there at those Catholic university. And I'm so grateful to that sister who actually started that program. It was the only program in all of Texas that actually was giving and accredited to give a bachelor's degree in nuclear medicine. 
+
+And some of you might be familiar with nuclear medicine, but for those of you who aren't. Um, essentially what you can't see in a structural x-ray. Um, Again, it's giving you really great structural information, but what it's not able to give you is any sort of molecular information what's happening at the cellular level. 
+
+So nuclear medicine offers. This opportunity to see what's happening on the cellular level. When I first went to the advisor. Who was managing this program? She's like, yeah, we actually inject patients with radioactive materials so that we can see where things are happening and how it's just like, I fell in love instantly. And so this is where my love for imaging really started. 
+
+Um, I joined the nuclear medicine program. I got to inject patients with radioactive material. Um, the radioactive material is tagged to something specific to actually home, to areas that are going to actually have increased uptake for some certain reason. In this case, it's a stress fracture. You wouldn't be able to see a stress fracture with a typical x-ray. 
+
+So you have to couple. Uh, radioactive agent. To methylene, dive phosphonate, which incorporates into the bone and you get to see how the bone growth is overturning. And that's something that the stress fracture can offer that I took a goal structural x-ray can. So I fell in love with that. I did a whole year of nuclear medicine training at regarded medical center. 
+
+I was actually a pre-med at the time, so I thought, Hey, I'm going to get my clinical experience and woke up at four o'clock in the morning to prepare radiopharmaceuticals for the patients for the rest of the day. Um, It was grueling experience. And guess what? I didn't end up going. Medical school. 
+
+I'm not saying that that's what deterred me, but I was fortunate enough at, regarding medical center, since it was a military hospital, they were the ones who were first getting all of the high-end instruments. And so pet imaging, positron emission tomography imaging shifts came about and regarding medical center was one of the very first institutions in the whole United States to actually get a pet instrument. 
+
+And as luck would have it, it was exactly at the time I was doing my training. So I was fortunate enough to see some of the very first pet imaging ever. Um, using this really cool technique, positron emission tomography. Um, and for those students out there who want to learn more about that, you can take my class. 
+
+Um, anyway. It's just a shameless plug, but no, it was so amazing. And they were doing these clinical trials, new agents that were targeting to answers lung cancers, prostate cancers. And I thought, wow, I want to be the one actually making those agents, coupling them to radioactive materials and watching them. 
+
+Accumulate in those areas. And so that's how my passion for, um, imaging and science came about. Instead of going medical school, I ended up going to graduate school at the university of Texas health science centers. Tanya. They have a medical physics program again. Great buck on my part. There's a lot of brief blocking alerts fate in a way that I'm going to be talking about today. 
+
+Um, where I was able to study with Dr. Beth thorns, who was developing these really cool nanoparticles. And at the time liposomal nano particles. Or something. If they were pretty novel now everybody's got injections of. A little bit base nanoparticles, right? I mean, it's pretty cool to think that, um, these nanoparticles are being widely news, but back then it was pretty, pretty novel. And we were the first to actually be able to encapsulate radioactive material inside the 
+
+And what was cool is that the radioactive material wasn't just going to be able to image it was also going to be able to treat so we could do therapy and diagnostics together. Before they even coined the terms they're Gnostics. We were doing it back in the early two thousands and it was so incredible. 
+
+Um, to be a part of that group. So this is where my nanoparticle. Um, love came from when I first started loving the idea of using nanoparticles. So imaging nanoparticles, that's kind of the constant theme throughout, and you'll see that in my. Um, work that I do today. Then I had an opportunity to move to California biggest culture shock of my life. 
+
+Coming from Texas to California. But absolutely fell in love with it. I did my postdoctoral training at Stanford. It was an amazing opportunity to study. Uh, under Dr. Sam Gambhir, who's one of the pioneers of molecular imaging and there. He used my skillset in nano, but instead of using liposomal nanoparticles, we were focusing on trying to clinically translate these gold silica base nano particles. 
+
+So still nano. Still the same size and still imaging, different imaging. But an entirely different type of nanoparticle. So, um, that was really exciting. Being able to. Um, Get a different perspective. And to try and also actually get through the clinical translation process, which was no small feat. And I'm going to describe how the FDA has greatly influenced. 
+
+The path that we have taken and are continuing to take forward. Um, so I started my professorship at USC in the fall of 2017. And our lab. Focuses on developing these new Nana based contrast agents for improving cancer detection. And localization. So we're really interested in providing physicians with these tools for surgical image guidance and enabling better drug discovery and improving personalized there. Some noxious. 
+
+Um, using the nanoparticles for diagnostic purposes, but to help guide therapy, I'm going to talk about a little bit about that reader. But we are using nanoparticles. Yeah. The particles are used in all sorts of areas. Really exciting time for nano particles right now. Biomedical research because of, um, you know, our vaccines. 
+
+Um, but there is a little bit of a disparity right now between FDA approved nanoparticles for imaging based applications versus therapeutic based application. So you can see. There's quite a bit of a difference. Therapy-based nano particles. We have about 55 plus the extra two of the recently approved Pfizer and Madrona. 
+
+Um, vaccines. With imaging base and particles. We're we're just, we're not there. We're not, you're not. Able to get as many nanoparticles approved. So I have some thoughts on this, um, about how we can change this. And that's something that our lab is really passionate about trying to change. Um, I have to admit that I haven't published many review articles, but I was particularly proud of this one. So I w I wanted to just discuss it a little bit. One, because it was chosen for the. 
+
+I cover of, uh, the actual journal. A two. Focused on this disparity between a clinic reapproved nanoparticles and therapeutics space to now project goals. And it brought an awareness to the nano community. Um, and as a result, it led to an invitation by experts in the field that actually asked us to contribute. 
+
+To an article in nature reviews, methods, primers, which we're really excited to contribute to when that recently came out. So. Uh, kind of a snowball effect and unexpected snowball effect of. You know, getting the word out there and Hey, what about imaging based now? Particles. Um, Of course. The newest nano kids on the block are Pfizer and maternal vaccines, both utilize a nano particle as a delivery for our MRI and a recipe cars that are responsible for giving ourselves the instructions to actually make. 
+
+He, uh, Spike proteins on the coronavirus virus so that we can then elicit an immune response. So, um, it's really exciting that the nanoparticle, because without the narrow particle, being able to deliver that MRR, Nate. It would easily degreed and it wouldn't be effective enough to be. Can you see the liver to yourselves effective? 
+
+So the nano particle is very, plays a very important part in being able to affect if we delivered those recipe cards. It's yourselves. Um, again, several advantages of nanoparticles. One is that their size is ideal for interacting with cellular and molecular targets. Um, as one of our outreach activities. 
+
+We actually use donuts. Um, so describe the size differential between a cancer cell and a nanoparticle where we took 10 centimeter size doughnuts and sprinkled. One millimeter sprinkles, all different colors. Which is equivalent to a hundred nanometer particles. So then you can see the donut is a cell. You can see the sprinkles as are actually nano particles that we're trying to deliver to our actual departments. And you can see there's plenty of space on the cell for us to deliver multiple nanoparticles. 
+
+To active and targets. Um, another great advantage of nanoparticles. They're great carriers of either diagnostic or therapeutic agents. You can put drugs or imaging molecules inside decorate the outside. Um, if there isn't capabilities of. Encapsulating. Um, but there, the surface is large surface area. Very easy to functionalize for active targeting. 
+
+Um, again, you can make multi-modal imaging, nanoparticles, meaning multiple modes of imaging. Maybe I want to do MRI. Um, maybe I want to do pet and MRI. Maybe I want to do CT and pet to leverage the advantages of each of those imaging techniques, but they also have theranostic potentially, as I said before, we can do therapeutics and imaging together. So if you have a fair enough stick, man or base. 
+
+Articles as well. They're also great for actively targeting biomarkers on a cell surface one, because in comparison to a small molecule, which only has the opportunity for one binding event, we actually, we are able to decorate our surface to give ourselves a multi Vaillant binding effect, which is going to increase the binding strength and potentially be affinity because there's more opportunities for it to actually find a target and bind to it. 
+
+Uh, we can also load up the nanoparticles with all sorts of different imaging agents to give it more imaging strengths. So it's more sensitive. It's a more sensitive imaging. Uh, contrast in June. So that's active targeting, but they don't. Just have the capability to actively target. They also have the capability to passively target. And this is something that we exploited in our lab called the enhanced permeability and retention effects. 
+
+Where the nanoparticles actually have the capability of seeping through the leaky vasculature that occurs in areas of tumors, areas of inflammation. That the nanoparticles can seek through these. Holes within the endothelial wall of the vessels. And they can't even find and accumulate in either the tumor in or in the, um, 
+
+Area of inflammation, but not only will they be able to passively accumulate, they can also be retained. So small molecules can certainly get through, but they're not going to stay there. And our nano particles do stay. So we want them to be able to get there and stay there longer so that we can then capture them. 
+
+Image then vocalize rather cancer is. So this is me at Stanford. Where I spend a considerable amount of time trying to get a gold-based nanoparticle that I talked about and beginning approved for administration of documents for diagnostic imaging purposes. I was a postdoc at the time. It was a little impressionable and definitely hopeful and thought, oh, okay, I'm going to get these nanoparticles into humans. I'm going to start the application process by myself. And this is me. 
+
+Maybe being a little cocky. Look, I've got my, my FDA application of the one on the right with the brown is the original submission. The one on the left was the resubmission. With all the revisions. Um, I'm wearing so, so much. Uh, during my time there and understanding the process to try and get something approved and particular media nanoparticle. And again, I'm finding out things about the nanoparticle that I didn't really know because. 
+
+They wanted to, the first thing they asked was where are these nanoparticles going after you're putting them into this human? And how long are the nano particles sticking around? Um, so. I, uh, I really wanted to understand what happens to our non-biodegradable goal-based nanoparticles. Um, but liposomal nanoparticles I was using when I was a graduate student or biodegradable, so that's a lot better, but I didn't realize the gold Silicon nanoparticles weren't degrading over time. And they were kind of just sticking around. 
+
+So, um, the FDA has really influenced, again, the directions of that my lab are taking now and how, um, we reacted to their responses for trying to get this type of nanoparticle approved. So. Um, our lab is actually focusing on understanding the nanoparticle physiology and bio distribution. We also want to expand the clinical optical imaging agent library because right now there's only three clinically approved optical imaging agents that exist out there. 
+
+There needs to be more because those three. Aren't enough. Um, and we'll talk about that in a bit. And then of course. I also was trying to be smarter. Are there smarter ways that we can utilize nano based molecular imaging techniques in the clinic? Is there a way that we can get. Um, the patient's new tools sooner rather than later. So these are the three major areas I'm going to talk about today. And I'm of course, I'm not going to be able to get through everybody's projects in the lab, but I, I am going to. 
+
+Um, highlight these three areas. Um, 
+
+Uh, first, we're going to talk about biodistribution studies, particularly beyond gold silica nanoparticles, because these are the types of nanoparticles. We were trying to get approved to the FTA through the FDA. They have these, these types of nanoparticles have a lot of really great benefits for imaging. We'll talk about them later, but. 
+
+The first thing that I tried as a nuclear medicine specialist expert. Was okay. Well, if I want to see where the nanoparticles are going, why don't I put a radio label on them? That's what I've been trained to do my entire career. So why not just put a radio label on them and then seeing where they're going, using positron emission tomography, which is an imaging agent that I was very familiar with. 
+
+So we actually put these radio labels on. We had different methods. We increased our labeling efficiency. We used different administration routes to see, okay, well, if I inject the nanoparticles intravenously, where do they end up versus do I inject the nanoparticles or administer them orally? Where do they end up? 
+
+And so we're seeing over the course of time, 48 hours, this is a nanoparticle that was conjugated to copper 64, that has a 12 hour half-life. So again, I don't have the capability of really following out. Too far because the half-life. Is going to a degree. I'm not going to be able to see the signal. 
+
+Past, probably about four days, three, four days. So. Um, what we were able to see here is a considerable difference where. The nanoparticles because of their size. They're about 120 nanometers will naturally get cleared from the bloodstream by the liver and the spleen. The liver is very clear in this particular image. You can see it all the way up to 48 hours. It's not really changing there. Um, but with the oral administration, we were happy to see that, you know, stomach first then in testing and then pretty much it's gone by 24 hours. So this was very encouraging for us and something that we thought, okay, maybe we can deliver our nanoparticles instead of Ivy orally to interrogate some of the gastrointestinal tract. 
+
+Um, we ended up, uh, acquiring these results where we actually harvest organs, count how many radioactive events are coming from them and being able to establish a nice fire distribution. Um, at different time points, two hours, five hours, 24 hours. What you're seeing is that the liver and the spleen aren't really clearing at all with the Ivy administration route. And that's because they actually don't. 
+
+Um, but we didn't really get to see past those. 24 48 hours. What happens later? Where are they? Indefinitely, where do they end up ultimately? And that's where, um, our projects that Sean Burkett is leading in our lab. Comes into play where we're trying to understand antiparticle physiology and by our distribution using a new multi photon luminescence imaging technique. So after tinkering around with some of the multi photon microscopes and the translational imaging center, Sean and I stumbled upon a new luminescence phenomenon that we were really excited about. 
+
+We were observing with our gold nano particles specific. Now. What we found out. Is that gold nano particles produced this broad band of converted luminescence under multi-fold tonic citation. It's long-term it has robust light production. And most importantly, it's label-free I don't have to put some radio label that has the potential of falling off. 
+
+Or dying after a few days. Um, and it's intrinsic. So again to the gold specifically, and there's no photo bleaching that's happening. Um, with single photonic citation, this is the sort of image we're getting when we put nanoparticles. On a glass slide, gold nanoparticles specifically under the last slide. 
+
+Not seeing anything there, but when we use multi-fold tonic citation, Actually able to capture where the nanoparticles are. This was super exciting for me because I was like, I've been radio labeled. Jesus for such a long time. And now I've got this technique that allows me to just see them intrinsic read. 
+
+Again, this technique has, uh, Being reported on before by physicists, but never utilized in this way. So we're really excited to be able to explain it for the very first time. This is the broadband emission profile for. Um, our gold nano particles, you can see that it's emitting all these channels so we can use the chain. Sorry, the channels together. 
+
+Co register them to actually localize, identify where the nanoparticles are. And even better, Sean ended up finding out that not only are we capable of seeing them, we can actually see them on the single particle level. So we have single particle sensitivity. We use scanning electron microscopy, which is very conventional tool that people use for looking at nanoparticles, who wouldn't otherwise be able to see a nanoparticle under a white light microscope. That's just not possible. 
+
+You don't have that sort of resolution to be able to identify them. So scanning electron microscopy offers that we took that grid, took it to our multi photon microscope, and we're able to get the same pattern to show where the nanoparticles are without any. 
+
+So. Um, that this was really exciting. The first thing of course, as being an InVivo lab was okay, well, let's stick them in a mouse and see if we can actually look at the nano particles in vivo. Uh, not a lot of labs have these capabilities, but since we do a lot of animal research, a lot of preclinical research, we have this capability. So we use the model. That's pretty well-staffed. 
+
+Established in the field. Uh, it's an ear model. You can see that the ear is very translucent. We can access and visualize the vasculature very easily. Again, it's an optical imaging technique. So we're going to have deaths limitations. To some degree. So we're using the ear vasculature sort of as a Mindo of what's happening in the whole vasculature. So if we were to inject these nanoparticles, could we see them in the ear vasculature to then pretty much tell us what's happening in the rest of the vasculature? 
+
+So we were able to capture is entirely label-free image, which I'm really excited about to share with you because we didn't inject any sort of four or four diets create this image. We're using second harmonic generation autofluorescence features as well as the luminescence features for the gold nanoparticles. And you can see that we're able to isolate the red blood cells. 
+
+I decided that the vasculature, the vessels from the actual lasting college and around the ear. Um, and then also looking at the gold nano particles themselves. I'm going to play this next to movie to show you that we can get real time. Feedback. And. Capture the nanoparticles as were injected them into the vasculature. So then. 
+
+Light up and give us a clue of where the nanoparticles are. So with something like this, you can imagine. It's very powerful for trying to understand the kinetics of the nanoparticles. After they've been injected into the vasculature, how long are they staying in the vasculature? Are there ways that we can get them to stay in the vasculature longer, perhaps because maybe that's going to help us deliver our materials more effective. 
+
+So. There's a particle tracking tool, um, on, uh, our commercially available system. Uh, that the translational imaging center has, it allows us to track these nanoparticles in the vessels. And what Sean was able to do was create a kinetic curve of where the nanoparticles are in the vasculature at various time points. 
+
+So we can now see what the circulation half-life is of these nanoparticles after it administration. And. More interesting me. We found that when we inject higher concentrations of nanoparticles, we're seeing longer and longer circulation half-lifes. So this is something that we want to try and maybe exploit to try and increase our delivery to the actual site that we need. Maybe the nanoparticles need to stay in the back of your shirt longer in order to passively accumulate into specific tumors. 
+
+Um, because most of the time, again, these nanoparticles end up in the liver and the spleen. Merely as a natural way of your body clearing something that's foreign. That shouldn't be there. So. We have this real time. Imaging technique. Uh, that's going to be able to give us a lot of insight about where these nanoparticles are going after injection immediately. But what about long-term? 
+
+What about what happens to these now particles one year post IB injection, where are they? Where are they hanging out? You know, they go to the liver in the spleen, but do they degrade over time or are they just sticking around? Um, so, and, and are there any toxic effects that we're seeing. So again, 
+
+I wanted to remind you. With typical histology. You're using a bright field white light histology. You're staying at your tissue with H and need to look at morphological structures of the nucleus and the cytoplasm. Uh, this is a liver tissue section that was harvested one year post IB injection. Uh, one animal or injection of 50 nanometer gold nanoparticles was injecting. 
+
+I can't see where the nanoparticles are. It's just impossible to see on Brightfield. Fluorescence imaging, single photon excitation. Also not giving me much insight. I can't see where the nanoparticles are. But with multi-fold. Luminescence. I'm now able to capture where the nanoparticles are hiding in the context of the actual tissue itself. 
+
+And we're noticing based off of. These images that the nanoparticles. Are being accumulated in the sinusoids, which are where the coop for cells, the resident macrophages of the liver reside. And that's been previously established, but what's not been previously established or what's he never been able to be seen before is an actual image one year posts. This is the very first time that we're actually able to capture an image at one year where these nanoparticles actually reside in a label-free manner. 
+
+Being able to see exactly where they're hiding. So this is really exciting, and this is Sean's next project that he's working on right now. You can see. 
+
+That it's a very powerful tool. What's even more exciting is that we can actually take whole liver lobe slices. At one year and within 10 to 15 minutes, getting into capture an entire map. Of where the nanoparticles are. So, um, We can not only look at it on a whole level, but we can zoom in. Where we're having subsided the resolution and identifying exactly where the gold is. 
+
+This is a really. Fun video to give you sort of an idea of zooming out, taking like. Large tiles and then being able to zoom in to a specific area with sub-cellular resolution and identify these features. So you're seeing red blood cells. And a pocket right here. In red, and then you're able to see the pinkish white is where gold nanoparticles are hiding. So let's prove to ourselves that this is actually gold. 
+
+What can we do? Well, we can take it to sort of the gold standard scanning electron microscope. Uh, and compare the images side by side. So Sean was able to take this particular tissue slice to and prepare it for SEM imaging. And we're seeing a nice correlation of the density, high density for the gold, with the actual accumulation of where the goal is in our multi photon luminescence image. 
+
+Taking it a step further to make sure that it actually is gold and not something else. That's just really dancing the liver. We did EDS elemental analysis, which gave us certainty that in fact, yes, that is that peak is, or that cluster is associated with gold itself. And so we get a really nice poll peak. 
+
+And you can see really, really nice correlation, even in the smallest areas. I think it's so cool. See this little cluster down here, corresponding with that little gold cluster there. Um, just incredible. So we're really excited. Um, And we have a collaboration with the nano characterization lab at NIH. 
+
+That is, I'm very excited about taking our tissue samples and looking at. Any pathological changes. Is there anything toxic about having these nanoparticles in the liver for such long periods of time? And does it correlate with the spatial, um, registration of where the goal is? So we're really excited about working with them. Of course, we're not limited to just looking at the liver. 
+
+We've also, um, been funded by the national science foundation to look at how now particles, metallic nanoparticles, particularly. Um, Where they ultimately reside after inhalation ingestion, because we, as a society, we don't really know this, but we are actually being exposed to a lot of metallic nanoparticles on a day-to-day basis. 
+
+Our sunscreens have titanium dioxide, zinc oxide. Um, silver is used in toothpaste, silver Nanopore, lots of nanoparticles being utilized. This is an example of, um, a lung tissue and you can see the beautiful, um, Aviola in addition to, in this case, the blue is our, where our gold nanoparticles are. This was an animal that was administered. 
+
+Um, 0.1 animal or gold nanoparticles after inhalation two hours after inhalation. And so you're seeing the nanoparticles actually in the lungs. And so we'll be able to follow those for longer periods of time. So, um, we've got, of course other metallic nanoparticles that we're currently investigating silver titanium dioxide, iron oxide, zinc oxide, copper. 
+
+All nanoparticles that either we're going to be exposed to on a day-to-day basis or nanoparticles that are being utilized clinically. 
+
+Okay, this is my little reminder. That we're switching gears now, but the next bit is also heavily influenced by my interactions with the FDA back at Stanford. So I learned a lot of lessons. Um, when I was trying to get this application. Approved for administration nanoparticles. Regulatory agencies don't like to administer now. 
+
+Most to humans, that's just sort of the. The truth, but unfortunate truth of it, particularly if they don't break down like golden silica. But they do routinely approve biodegradable nanoparticles for drug delivery and therapy. So Lubrizol nanoparticles have been approved since 1995, actually. So that's promising. 
+
+Um, investors actually don't like imaging contrast agents because the market's just not there. Uh, we have a hundred billion dollar market in cancer therapies. Whereas the imaging contrast agent market is only about 5 billion. All me. 
+
+But what if we use imaging contrast agents to guide therapy? Maybe investors were thinking I'm not going to really get a return on my investment. But what if we're actually using, can we justify the cost of developing these imaging contrast agents if we're not only diagnosis, but also helping to guide therapy? 
+
+So what if we guide served your core section of tumors? We have better resection rates where we're getting most of the tumor out. We don't have repeat surgeries. We're enabling more efficient drug discovery. With our nanoparticles. Uh, predicting therapeutic response perhaps, perhaps. Uh, improving a personalized therapy. 
+
+Then you can save money in the long run. So this is sort of our, um, model that we're taking forward and how all of this has given me an opportunity to really think about what the smartest way is to get our nanoparticles approved. Um, and, uh, getting the nanoparticles and the strategies out there for patients to benefit from sooner rather than later. 
+
+So. 
+
+I've talked about expanding the clinical optical imaging library. This is the current list of FDA approved floor force for clinical use limited to Florida. Scene methylene blue into signing green. And truth be told. I think the only reason why these nanoparticles are approved is because they were approved such a long time ago, back in 1891, I think was sort of the first use of some of these materials. So. 
+
+FDA regulations maybe. A little more laxed back then. Um, I think in 1947 was the first time they actually used flora scene to actually help guide. Brain tumor resection to use it. So, um, again, Only three. 
+
+So I'm thinking. After my experience with the FDA. 
+
+Why can't what else is out there that we can use. So I drew a little bit of inspiration from an unlikely place. Um, as a side note is, as Megan talked about, I'm a big animation enthusiast and I do a little bit of stuff on the side, a little hobbyist, um, and I was actually taking some animation classes. 
+
+At Pixar. With some Pixar animators. It was right across the street, Pixar animators after work, come across the street and teach the public about their craft. Um, And I got an opportunity. To actually step inside Pixar, which I was super excited about. This is me. And then Daniel Arriaga and Dan Holland, two amazing animators. 
+
+Both specialists and character design. Um, 
+
+It was just fascinating to be a part of, of all of that. And so I was doing a character design class in particular. We were learning about all the different Disney animators. That existed over time. There's something called the nine old men. Which are the original animators that Disney, um, use for all of their classics back in the day. 
+
+Mary layer was the very first woman who was allowed to, um, join the inner sanctum of those nine old men. Um, and she is a big inspiration for me. Uh, we were learning about, uh, some of her, her techniques and some of the. The components that she was used, she was using something called guash. It was a high pigment paint watercolor. 
+
+I picked my watercolor. So, um, she was creating these really vivid, beautiful, um, con concept designs for Cinderella. Peter pan again, look at these vibrant colors. Alice in Wonderland. My favorites. As well as small world. And. I couldn't really disconnect sort of what I was doing on the side with what I was doing in the lab. And at that time I was looking at a bunch of Rama and signatures from these gold nanoparticles. And I thought to myself, you know, geez, I wonder if these. 
+
+These pigments have optical properties that we could exploit for imaging like fluorescence imaging, or Rama and imaging. And, uh, I started thinking I want to step further. What coloring agents do humans encounter on a day-to-day basis? Well, People are injecting themselves with tattooing's. People are consuming, ingesting. 
+
+Really nicely colored Tandy's and cakes. Um, we're also putting color on our faces and, uh, for cosmetics. So we're actually exposing ourselves quite a bit to these coloring agents. And then I went down a rabbit hole and saw. And found out that there's all these FDA approved coloring dyes that already exist. What maybe they have some interesting optical properties. And I started thinking about how I wanted to get my hands on. Some of them. 
+
+Uh, the first thing I did was I went to a local tattoo artist and I've really admired his artwork because he's does amazing tattoo work. And he, um, was, yeah. You know, I'll talk to you about your idea. I literally went with my 96, well plate, asked him to squirt some tattoo ink into my 96. Well plate, took it back to the lab and saw some amazing. 
+
+Thanks one, the tattoo Meeks had really nice sharp rum on signatures that I was really excited about seeing, because these are signatures that we can easily deacon ball from one another. Uh, again, that's Adam, some of Adam's work. They're not mine. But that's, uh, some of his work that I really just absolutely love the colors are so vibrant. 
+
+So we one found out that all of these different coloring agents. You know, had some really cool. Uh, optical properties. We're also looking at their florescence imaging potential, a different type of imaging technique. And in fact, we were seeing that some of the FDA approved coloring dyes are actually more. 
+
+Fluorescent we efficient than the commercially available ones that had the little asterisk next to them. So, uh, we were really excited about seeing how bright we could. I see these, these particular nanoparticles. And so we created a library of folks, the Roman and fluorescent properties of Egypt, these coloring guys, and decided. 
+
+Um, to develop an entirely new biodegradable nano based contrast agent. Now the contrast, the contrast agent is going to be biodegradable and it's going to have something in it that were already commonly exposed to. Um, on a daily basis, Andy. Uh, this project was led by these three lovely ladies, Helen Domini and Olga who, uh, spent a lot of hard work and time. Uh, this project was ongoing during the pandemic. So it was. 
+
+Quite accomplishments to, to get it out. And again, um, we use animal models, so trying to get things done quickly before the pandemic really closed all of us down. But what we ended up doing was we encapsulated some of these coloring agents into a biodegradable, the presumes. So going back to my graduate years, um, and getting all my protocols calling of my advisor, asking her, you know, like, is this the right ratio? And. 
+
+You know, it was really fun to think of, uh, how we could potentially incorporate the things that were commonly exposed to, into a nanoparticle, and then try to deliver it into an animal model. Uh, to see if we could actually localize. Um, the cancer or the tumor. So we had our green liposomes as, um, 
+
+Our first. Uh, Types of contrast agent that we were injecting intravenously into an animal model that had either Ellis 1 7, 14 tumors or Hilo tumors. And we were using the enhanced permeability retention to passive accumulation of the nanoparticles, into the tumor to localize the nanoparticles to those sites and saw really nice accumulation in the tumors, as opposed to the adjacent muscle or the tumors that are controlled tumors that had no. 
+
+Uh, injection. So we're really excited to see this. Um, again, we're thinking, oh my gosh, we. This would be good for surgical image guidance. So we had an orthotopic brain tumor. That be injected with orange liposomes in this case. Uh, the, the liposomes passively accumulated into the brain. Again, this brain is. 
+
+You know, Been disrupted brain blood brain barrier has been disruptive because of the presence of this actual tumor, but the nano particles didn't have a very hard time actually getting into and localizing the tumor. We also use, uh, this imaging to actually resect the tumor. Um, and we're able to. 
+
+Successfully resect it from the brain. This is actually a real time. A florescence. Image guidance demonstration of us. Having, uh, access to. Um, uh, again, a subcutaneous tumor that was injected with some of our liposomes that had this really bright fluorescent. Uh, component attached to it and you could see that. 
+
+The resected tumor. Actually very bright as opposed to the surrounding normal tissues around it. Um, we've received quite a bit of press coverage on this article. Obviously it was sort of hard times. There was, it was COVID people were running a different story and they were like, oh, this sounds really cool. Can we, you know, feature you? It was fun too. 
+
+Um, actually have, uh, people actually say, oh, I saw you on the news last night. It was, it was pretty fun, but it was a local news. Um, we were also featured in the Smithsonian magazine. Again, really fun to see an idea that started. Uh, sort of in. In the context of Disney and Pixar and being able to utilize it in an actual, uh, tumor model in an animal was pretty cool. 
+
+Um, so our experience with the FDA again, Really influencing where we're going. I'm switching gears here. And we're going to now focus solely on the idea. Of creating a new imaging technique that we've called Roman proteomic imaging. Uh, we want to utilize this to enable drug discovery and improve personalized therapy. 
+
+Well, we want to be able to get this to patients sooner rather than later. Again, I've been trying to use my experience with the FDA to circumvent hurdles. And so we had, again, this is the type of nanoparticle. Let me remind you that we were actually trying to, that I had all this information about where it was redesigning. These, these are the nanoparticles we tagged with the radio label. 
+
+These are the nanoparticles I was trying to actually get approved for administration into humans, either intravenously. Or topically. Through ingestion. Um, so it's, and let me tell you why we spent so much time, because it's a really cool nanoparticle, what it offers us. Um, the nanoparticle is a gold Corp. 
+
+And it has a silica shell. 
+
+But it has this very unique Roman active layer that's absorbed onto the gold Corp that actually gives it its unique spectral signature. So in this case, the red spectral signature is what I'm able to generate from eliminating these nanoparticles with light. But. I can switch out. That ramen active layer with all sorts of different organic molecules that are each going to give me a unique signature associated with it. 
+
+So now you can envision us having, uh, different batches of nanoparticles that we can now direct to different things and simultaneously assess. Um, what those things are based off of where the nanoparticles are targeting to. So, this is what we call multiplexing. Very powerful tool. One of the only types of optical imaging techniques that can actually, uh, have these types of very unique narrows. 
+
+Spectral features. Um, and. I thought to myself, well, if I can't get these injected, maybe we can actually stain tissues from outside of the body that have already been resected from the actual patients and stain those materials, those tissues that can give us insight as to what's happening at. Uh, at the, at the molecular level on an actual resected tissue. 
+
+And I started, like, it was again, a snowball effect. I was like, wow, we could do fresh tissue. We could do tissue. That's been archived for years. We have all these really rich tissue banks with all of this formula and fixed tissue. That's just sitting around. We can do retrospective studies. I was just going all sorts. 
+
+I was, it was a Eureka moment for me, but I was so like, our mindset was like in vivo, in vivo, in vivo. I never took a step back and realized until I came here to UFC that we didn't have to go that route to still be impactful. So. 
+
+Again, Right now with histology. The gold standard. If you want to understand molecular expression in a histology stamp pool, the gold standard is immunohistochemistry, which uses this brown stain. And brown is brown and you can't change the color of brown to anything else. So you're really limited. 
+
+Um, There's also immunofluorescence people are stating their slides with fluorescence. Uh, imaging probes, but the fluorescent imaging probes are quite broad, a spectral emission. So there's a lot of spectral overlap and maybe you could get about four to five that you can be involved. But what about more than that? 
+
+That's where our technique comes in. Where we can actually get signatures, very unique signatures that we can spectrally separate from one another. And be able to offer in a single imaging acquisition. Multiple bits of information about what sorts of biomarkers are present. So thanks to my brilliant postdoc, Olga Remini. 
+
+Um, we now have 26 unique batches. Uh, that we published on. Um, and these are all the different spectral signatures, uh, that she created. In different batches of nanoparticles. 
+
+Um, and we were able to actually combine these spectral, uh, these, these nanoparticles in batches. So we pipette it into Wells, a mixture of eight. And then our post-processing software was actually able to identify which of those eight. We're in that mixture. We then pipetted 10 again, successfully able to identify which 10. 
+
+22. Altogether and the one pixel. And then ultimately all 26 into one imaging. Well, and so in a single imaging pixel, we're able to identify which of the 26 are there. All of them. 
+
+She also had, uh, an opportunity to feature her multiplexing. Uh, capabilities in this project, I'm published data. 
+
+Um, hopefully we'll get it published. Um, but this is actually, um, Olga. And her chesty high school assistance. Lisa Volkan who actually, we, um, had. In each well pipetted different combinations of flavors to create that beautiful picture that you saw. Andy. In this case, she actually is featuring 30. So just a hint. We are expanding beyond 26. 
+
+But she's showing 30 different nanoparticle types and all the channels, which represent each of those nanoparticle types. So, um, if any of you guys cut the game. Uh, the Stanford game this last weekend, I was thinking about her a lot because of the, you know, the beautiful drone show that they were doing. And I was thinking about all the drones, like having to be lined up in those SC patterns and. 
+
+I was like, we've got that. We've been doing that before. 
+
+Um, but it was, it was just like so much fun. And again, we have such a, a. A very creative, artistic lab. And another thing I'm very proud of. Um, so again, moving to active targeting, we've got the nanoparticles, but now we need to get them to something relevant so that we can utilize them. So, um, again, we were. 
+
+Thinking about targeting them to relevant targeting linens that are overexpressed in multiple cancers. Um, This is our conjugation process, where we have a nanoparticle. We can, we have a silent surface. We can hook on a peg linkers with antibodies on them. We can also hook on floor fours if they want to do flow cytometry. 
+
+Um, this is, uh, work from our, uh, Uh, Most recent to higher in the lab. Um, Pega Viguerie who has done such a great job in actually assessing our ability to actively target, to use nanoparticles to specific cell types with a certain cellular expression. And here we have an eight 40. a cell line. That's very highly expressing GFR, but also her too, but not to as. 
+
+Uh, to a big two. Uh, as big of a degree, and we're seeing that in flow cytometry supported there again with the SKB or. Three highly expressing her two, but also if you do that far, but not to as high of a degree. And then we have our negative control where we have cells that don't express ETFR or hurts you again, we have an isotype control in place to account for any sort of non-specific binding, which is really nice. 
+
+And so we're seeing a significant increase. Uh, of our ability to target academic target these cell lines, as opposed to our isotype control, which is very compelling. Compelling. We've also been able to demonstrate this with Roman imaging. These are Rama images of cell types that show the actual signature associated with it. We're actually able to create these intensity maps that match nicely with where the cells are. 
+
+Again, we have really nice data to support that. Uh, we have specific binding rather than just non-specific binding of the nanoparticles. These are all specific against our isotype control. And finally where we had it, we were thrilled to see that our actual conjugated nanoparticles can actively target her two. 
+
+On a human tissue samples. So this is your basic H and D stain that you would receive on a patient sample. This is a patient with ductal carcinoma in situ. Um, this is showing the, her two expression and the gold standard immunohistochemistry. The brown is where the Hertz, who is. And our ramen image matches up really nicely with where the, her two expression is in the gold standard. 
+
+Immunohistic chemistry. We were able to quantitative and correlate that. Uh, the IHC where the brown is versus where our signal is really nicely. So our vision moving forward is having this highly multiplex Roman proteomic imaging technique. We have different sets of nanoparticles, all decorated with different things, all trying to target simultaneously in one stain. 
+
+Go in with our imaging device, create these beautiful maps. Have unprecedented multiplexing capabilities. Um, and just to conclude several opportunities can explore the advantages of using air based contrast agents. We can provide physicians with all sorts of important information. We're continuing to expand our Sears nanoparticle library. 
+
+Um, Olga's going way past 30 now. Um, we're further optimizing our unique Romano. Imaging technique to improve spatial. Profiling enhancers. Uh, we're also exploiting our new free, uh, sorry. I'm able to free multi-fold time luminescence imaging strategy to see, um, where the goal is over long periods of time and histology sections. 
+
+And we're also engineering. Really cool, new surface imaging tools to offer physicians, improve surgical guidance. Um, with the start of Hispanic heritage month, that just wanted to point out that our lab has done. Uh, you know, very active in trying to promote participation of Hispanic students in stem. 
+
+And then I'm sorry, please bear with me. I have some acknowledgements, please. So funding sources. Yes. Thank you. There. Very important for maintaining what we're able to actually do. But I'd also like to think my wonderful lab members who've done such an amazing job. Uh, helping me getting started here at USC. 
+
+These are some of my very first undergrads who are now off medical school or applying to medical school. Um, Just amazing cohort. Sorry. Domini, Ahmed and Kim. And again, I didn't want to just put up names. I want you to see their faces. Cause there's so important, such an important part of how far we've come. 
+
+This is Arjun Rudy and Karen. Um, Our more recent wise, Sam or Matthew, Anthony Karthik and Celine who are already seniors. Um, 
+
+Alice, uh, Nellie and Sarah. And then our most, most recent Angus, Matt and Jayden who joined us this last summer part of the bugs program. Huge, thanks to our undergrads. So many that have been such an integral part of making us the lab that BR. Um, very rewarding to be a part of their journey. Um, 
+
+But. Got to really give credit to my, my actual graduate students who, um, have made the commitment. To stay with me for the four to five years. Um, and especially a special thanks to Sean and Helen. Who have been with me from the very beginning. I mean, these are grad students now, but they were undergrads with me as well. So I. 
+
+Somehow convinced them to spend yet more time with me. And I'm so grateful. Um, the lab culture. The setup in the lab has a lot to do with, uh, both Sean and Helen. And they're just wonderful. And thank you so much for trusting me. With, with your journey with your academic journey. Um, I also want to thank Alex and PayGo who are also phenomenal graduate students. Um, 
+
+Been really great. New members helps Alex's and around he's actually going to be graduating. Did you see him? I have to brag a little bit about that. Um, but, uh, pagan has just joined and she's just been so amazing and wonderful. And, and I'm, I'm, I'm just so proud of all of my graduate students. 
+
+Such an important part of, of what we've been able to accomplish. Um, but then of course, I have to give a whole slide to all get here. My post-bach. Um, who was literally. Again, I talked about fate. I talked about destiny sort of things happening. And she is particular. She she's like my angel that just fell in my lap. 
+
+And who would have thought that, um, you could just have a post-doc knock on your door and say, Hey, I've been doing some Romano. You know, I'm like, wait, you do Rama. I do wrong. Anyways. It was, it was just amazing to thank you so much, Olga. None of this would have been possible without you. I really appreciate it. 
+
+Um, and then of course, yes, and August, uh, who were both, um, really. Important parts of helping me get the labs set up, managing the lab, maintaining the lab culture. Really amazing. Um, and of course my BME support system. Uh, really, really been an amazing time. Thank you so much for welcoming me into the departments. 
+
+And being there to vent. Um, Um, uh, days that are hard and celebrate on days that are good. Uh, I really appreciate it. Uh, my collaborators at Michelson, we're all about convergence and action. Um, and again, the people that have, uh, that we worked with very closely. Dimitri, thank you again so much for everything that you've given me, particularly. 
+
+Olga. 
+
+Um, but I really appreciate everything that you do for the lab. Um, and then of course, uh, I have my cores that I use very often and their support has been very instrumental. My USC mentors. Thank you so much for all of your great advice and wisdom. And I'd like to acknowledge. 
+
+Um, My academic advisors. 
+
+Who both recently passed away due to cancer. 
+
+Their guidance and support were instrumental in putting me. On my academic path. 
+
+And, um, I just wanted to acknowledge them. 
+
+And then lastly, of course my family. 
+
+Which, um, 
+
+This journey would not have been possible without. So. 
+
+A big, thank you to. Mom and dad. Um, My brother, Jess. And then of course my wonderful husband Pirog. 
+
+Okay. Thank you. 
+
+thank you, Christina. Maybe one quick question, but we are out of. 
+
+Christine is also here. Yeah, of course. So. 
+
+Yeah. <unk>
